@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "isotope-light-ui"
+      "flatland-dark"
+    ]
+  "exception-reporting":
+    userId: "0eb752cc-e36e-42d0-823f-92c211185e2a"
+  "isotope-light-ui": {}

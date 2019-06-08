@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+  "_id": "predawn-ui@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-K74LUDWNADBnlB91J++a0lk+pSqa2/2hPV1Q67vgxJEzqX0rycFYeorwhzPwZu5yLFKjmlWapCiJh1lG7TxTtQ==",
+  "_location": "/predawn-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+  "_shasum": "34af38543623faf89896f0dafaccf1936de10e1c",
+  "_spec": "https://www.atom.io/api/packages/predawn-ui/versions/1.0.7/tarball",
+  "_where": "/tmp/apm-install-dir-119330-3618-1i8rr57.irhh",
+  "bugs": {
+    "url": "https://github.com/jamiewilson/predawn-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Predawn UI Theme for Atom",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/jamiewilson/predawn-ui#readme",
+  "license": "MIT",
+  "name": "predawn-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiewilson/predawn-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.0.7"
+}

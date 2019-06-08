@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+  "_id": "drag-relative-path@1.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-FCp7QfMKFGMZrpASgX27a2Co1geIwHW1RV1GtERrPLW5xSYgjLp+LuKTK1aAQBxjAjOEUVYXUgPmr4MA1S/Y3Q==",
+  "_location": "/drag-relative-path",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+  "_shasum": "b2b4c8a2832348e3bbec5296a4bae9fe80d554ad",
+  "_spec": "https://www.atom.io/api/packages/drag-relative-path/versions/1.1.3/tarball",
+  "_where": "/tmp/apm-install-dir-119330-2050-15tmhp4.h5c6",
+  "bugs": {
+    "url": "https://github.com/Robbatron/drag-relative-path/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "relative": "^3.0.2"
+  },
+  "deprecated": false,
+  "description": "Drag files from the tree-view (or externally) to create HTML tags with automatic relative paths",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Robbatron/drag-relative-path#readme",
+  "keywords": [
+    "drag and drop",
+    "relative path",
+    "html tags"
+  ],
+  "license": "MIT",
+  "main": "./lib/drag-relative-path",
+  "name": "drag-relative-path",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robbatron/drag-relative-path.git"
+  },
+  "version": "1.1.3"
+}

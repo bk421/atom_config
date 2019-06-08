@@ -1,0 +1,32 @@
+.syntax--source.syntax--js {
+    .syntax--type {
+        color: @red;
+    }
+
+    .syntax--constructor {
+        color: @cyan;
+    }
+
+    .syntax--console {
+        color: @cyan;
+    }
+
+    .syntax--variable.syntax--other.syntax--object.syntax--property.syntax--unquoted {
+        color: @blue;
+    }
+
+    .syntax--formal-parameter.syntax--identifier {
+        color: @orange;
+        font-style: italic;
+    }
+}
+
+.syntax--source.syntax--jsx {
+    .syntax--keyword.syntax--operator.syntax--accessor {
+        color: @syntax-text-color;
+    }
+
+    .syntax--meta.syntax--function.syntax--parameters .syntax--variable {
+        color: @orange;
+    }
+}
